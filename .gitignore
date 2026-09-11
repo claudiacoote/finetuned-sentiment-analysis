@@ -13,3 +13,7 @@ __pycache__/
 *.pyc
 fine_tuned_sentiment_model/
 fine_tuned_sentiment_model/
+.env
+*.egg-info/
+*.safetensors
+*.bin
