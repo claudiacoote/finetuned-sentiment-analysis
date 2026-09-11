@@ -1,0 +1,15 @@
+# Python virtual environments
+venv/
+venv39/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+fine_tuned_sentiment_model/
+fine_tuned_sentiment_model/
