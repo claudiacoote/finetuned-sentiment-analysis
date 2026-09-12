@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Movie Review Sentiment Analysis with DistilBERT
 
 An AI-powered sentiment analysis project that classifies movie reviews as **positive** or **negative**.
@@ -368,3 +369,6 @@ Claudia
 ## Licence
 
 This project was developed for educational purposes.
+=======
+# finetuned-sentiment-analysis
+>>>>>>> b1c024d39c8c3dd8a8d337f5e3320136be83d2e0
